@@ -8,7 +8,7 @@
 4) Aesthetically pleasing UI, user-friendly, and fully responsive.
 
 ## View here : 
-[Heart of Hanuman](https://rammandirproject.netlify.app)
+[Heart of Hanuman](https://ram-mandir-project.netlify.app/)
 
 ## Tech Stack
 1) JavaScript
